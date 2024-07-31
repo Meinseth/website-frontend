@@ -12,7 +12,7 @@ npm i
 npm run dev
 ```
 
-## liberies
+## libraries
 
 - https://ant.design/
 
